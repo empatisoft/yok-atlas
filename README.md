@@ -9,7 +9,7 @@ $ composer require empatisoft/yok-atlas:dev-main --prefer-source
 ## Composer ile kurulum (JSON)
 composer.json dosyanızın require değerlerine ekleyip "composer update" komutunu çalıştırın.
 ```
-"empatisoft/yok-atlas": "dev-master"
+"empatisoft/yok-atlas": "dev-main"
 ```
 ## Projenize elle ekleme
 Sınıfı indirip proje dizininize kopyalayıp kullanabilirsiniz.
