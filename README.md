@@ -4,7 +4,7 @@ YÖK Atlas web sitesindeki lisans program bilgilerinin alınmasını sağlamakta
 ## Composer ile kurulum (Terminal)
 Proje ana dizininde aşağıdaki komutu çalıştırın.
 ```
-$ composer require empatisoft/yok-atlas:dev-master --prefer-source
+$ composer require empatisoft/yok-atlas:dev-main --prefer-source
 ```
 ## Composer ile kurulum (JSON)
 composer.json dosyanızın require değerlerine ekleyip "composer update" komutunu çalıştırın.
